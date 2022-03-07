@@ -1,5 +1,5 @@
 # Dairenin Alanını ve Çevresini Hesaplayan Program
-Patika.dev > Java101 > Pratik5 - Dairenin Alanını ve Çevresini Hesaplayan Program
+Patika.dev > Java101 > Temel Kavramlar ve Değişkenler > Pratik5 - Dairenin Alanını ve Çevresini Hesaplayan Program
 
 ## Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan programı yazınız.
 
